@@ -2,7 +2,7 @@ function SignUpPage() {
   return (
     <div
       className="bg-white flex items-center justify-center w-5/12 lg:w-full 
-      min-h-screen center p-3 
+      min-h-screen center p-3  z-20
       shadow-[0px_8px_22px_-6px_rgba(24, 39, 75, 0.12)]
       shadow-[0px_14px_64px_-4px_rgba(24,_39,_75,_0.12)]
     "
