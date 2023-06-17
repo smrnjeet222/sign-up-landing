@@ -20,7 +20,7 @@ function SignUpPage() {
           <input
             className="border border-[#E5E5E6] rounded-lg w-full py-5 px-6 text-gray-700 
         placeholder:text-[#CACBCC] placeholder:font-medium placeholder:text-md
-        focus:outline-none focus:shadow-outline
+        hover:outline hover:outline-slate-400 focus:outline-slate-400
         shadow-[0px_4px_10px_rgba(0,_0,_0,_0.04),0px_1px_1px_rgba(0,_0,_0,_0.04)]
         "
             id="username"
