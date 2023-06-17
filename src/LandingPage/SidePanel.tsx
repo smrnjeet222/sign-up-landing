@@ -41,7 +41,7 @@ function SidePanel() {
         <div className="flex-1">
           <img src={appSS} className="" />
         </div>
-        <div className="flex-1 flex flex-col gap-4 text-right pr-14 xl:pr-6">
+        <div className="flex-1 flex flex-col gap-4 mt-8 text-right pr-14 xl:pr-6">
           <img src={eye} className="ml-auto w-8 h-8" />
           <h4 className="text-3xl">
             Watch what the

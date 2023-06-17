@@ -21,8 +21,8 @@
     z-index: -1;
     background: radial-gradient(
       circle at bottom left,
-      rgba(31, 169, 17) 12%,
-      #2f15d0 26%,
+      rgba(31, 169, 17, 0.810119) 12%,
+      #2f15d0 29%,
       rgba(0, 0, 0, 0) 38%
     );
   }
