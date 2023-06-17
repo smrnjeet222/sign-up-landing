@@ -6,4 +6,5 @@ Figma Designs [https://www.figma.com/file/pCKBV7vSUvgQAjwf7t0y22/Front-End-Asses
 
 [Assignment Details](/Loch%20Senior%20Front%20End%20Developer-%20Assignment%20.pdf)
 
-<img width="2300" alt="image" src="https://github.com/smrnjeet222/sign-up-landing/assets/48654626/2384f889-4800-4305-88fa-a584d8d6b742">
+<img width="1725" alt="image" src="https://github.com/smrnjeet222/sign-up-landing/assets/48654626/575dd207-8a0d-4fe0-80f8-987b78075219">
+
